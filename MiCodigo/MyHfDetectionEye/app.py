@@ -10,7 +10,7 @@ from io import BytesIO
 app = FastAPI()
     
 def buscar_existe(image):
-    existe = "no"
+    existe = "no existe un ojo"
     print("resultado: ", image.shape)
     
     # Cargar el clasificador de ojos
@@ -21,7 +21,7 @@ def buscar_existe(image):
     # Detectar ojos en la imagen
     eyes = eye_cascade.detectMultiScale(gray, 1.3, 5, minSize=(10, 10))
     for (x, y, w, h) in eyes:
-        existe = "si"
+        existe = "si existe un ojo"
         break
     
     return existe
