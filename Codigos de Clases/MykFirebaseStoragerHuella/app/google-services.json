@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269470908739",
+    "project_id": "mihuarote",
+    "storage_bucket": "mihuarote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269470908739:android:54f5246a0da47348ab6ff6",
+        "android_client_info": {
+          "package_name": "com.example.mykfirebaserehz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4SMtnxcJFYcC9osb1hxjpknw_yJIC0jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+scikit-learn
+fastapi
+numpy
+opencv-python
+setuptools
+minisom
+requests
+pydantic
+uvicorn
+opencv-python
+matplotlib
