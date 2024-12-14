@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426557806627",
+    "project_id": "mymovilesandrew",
+    "storage_bucket": "mymovilesandrew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426557806627:android:273bec2c5d15bc81473996",
+        "android_client_info": {
+          "package_name": "com.example.mykfirebasestoragerrostro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMx7LXi4QwQtG6eKiRyoHGDPU4X1GGqWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

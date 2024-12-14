@@ -1,0 +1,13 @@
+scikit-learn
+fastapi
+numpy
+opencv-python
+setuptools
+minisom
+requests
+pydantic
+opencv-python-headless
+uvicorn[standard]
+python-multipart
+pillow
+matplotlib
